@@ -3,9 +3,14 @@ After displaying the booking details, users can choose to book or cancel the tic
 If booked, users select a payment type (credit card, debit card, UPI, or net banking) to complete the payment. 
 Upon successful payment, the ticket is confirmed. If choose to cancel the ticket, it updates the ticket status in the database accordingly.
 
-
-
-
+The system uses Swing and AWT in Java Eclipse, 
+with separate databases for user registration and booking details, 
+including status (booked/cancelled).
+ 
 
 ![login](https://github.com/siddhi0104/Movie-Ticket-Booking-System-Eclipse/assets/146518630/61540e5f-322a-4018-ac6a-3c8c4897f374)
+
 ![image](https://github.com/siddhi0104/Movie-Ticket-Booking-System-Eclipse/assets/146518630/17d972ff-fca6-4e6e-85bc-586285512967)
+
+![image](https://github.com/siddhi0104/Movie-Ticket-Booking-System-Eclipse/assets/146518630/139704b5-652e-446f-9ed8-231145848d4a)
+
